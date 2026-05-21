@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# MarketStream project-specific
+*.csv
+!sample_data/*.csv
+.aws/
+spark-warehouse/
+metastore_db/
+derby.log
