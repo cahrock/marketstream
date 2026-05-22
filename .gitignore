@@ -224,3 +224,7 @@ __marimo__/
 spark-warehouse/
 metastore_db/
 derby.log
+
+# raw downloads
+*.zip
+sample_data/*.zip
